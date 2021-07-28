@@ -1,0 +1,120 @@
+{products:[{
+"name":"Iphone 12 Pro",
+"department":"Cell Phones",
+"price": 790,
+"discountPrice": 710,
+"image":"https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/Apple-iPhone-12-Pro/Pacific-Blue/Apple-iPhone-12-Pro-Pacific-Blue-frontimage.png",
+"description": "6.7-inch Super Retina XDR display Triple-camera system (Ultra Wide, Wide, Telephoto) A14 Bionic chip"
+},
+
+{
+"name":"Headset",
+"department":"Audio
+"price": 49,
+"discountPrice": 44.5,
+"image":"https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/Apple-iPhone-12-Pro/Pacific-Blue/Apple-iPhone-12-Pro-Pacific-Blue-frontimage.png",
+"description": "Enjoy high-quality sound with this Logitech H390 981-000014 headset that features USB connectivity for crisp digital audio. The noise-canceling microphone minimizes unwanted background sound for clear conversations."
+},
+
+{
+"name":"Echo dot",
+"department":"Audio
+"price": 27,
+"discountPrice": 25,
+"image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6287/6287974_sd.jpg;maxHeight=640;maxWidth=550",
+"description": "Echo Dot is a voice-controlled Smart Speaker with Alexa, perfect for any room. Just ask for music, news, information, and more. You can also call almost anyone and control compatible smart home devices with your voice."
+},
+
+{
+"name": "Vaccum Cleaner",
+"department":"Appliances",
+"price": 239.99,
+"discountPrice": 199.99,
+"image":"https://media.kohlsimg.com/is/image/kohls/3583794?wid=1200&hei=1200&op_sharpen=1",
+"description": "Enjoy the versatile cleaning power of this BISSELL Zing bagless canister vacuum.  Cyclonic action and powerful suction provide
+ thorough cleaning. Plus, no more bags to buy or change ever Easily go from cleaning carpets to hard floors with the flip of a switch DIRT cup
+ filters and Post-Motor filter help capture more fine dust and particles. Filters are washable and reusable 16 feet of cord for great
+ cleaning reach and retracts with the touch of a button for easy storage. Easy to maneuver with the integrated carrying handle"
+},
+
+{
+"name": "Refrigerator",
+"department":"Appliances",
+"price": 2789,
+"discountPrice": 2759,
+"image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5790/5790000_sd.jpg;maxHeight=640;maxWidth=550",
+"description": "This Maytag French door refrigerator is made with heavy-duty components and features that deliver the right kind of cold exactly where it's needed.
+ Fingerprint resistant stainless steel keeps this fridge looking as good on the outside as it works on the inside. With the touch of a button,
+ the Power Cold feature quickly chills down the refrigerator. The temperature-controlled Wide-N-Fresh deli drawer provides the perfect place to keep
+ deli items so they stay fresh longer. And when it comes to durability, this French door refrigerator has stainless steel handles to give you
+ something hardy to grab on to, while the 10-years limited parts warranty on the compressor means you can count on it hold the cold for years."
+},
+
+{
+"name": "Dishwasher",
+"department":"Appliances",
+"price": 579.99
+"discountPrice": 521.99
+"image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8561/8561015_sd.jpg;maxHeight=640;maxWidth=550",
+"description": "With multiple cycles and intense cleaning power, this Kenmore 24" built-in dishwasher ensures your dishes, pots and pans will be ready
+ when you need them. An UltraWash® HE Filter traps particles, so water is cleaner and dishes shine bright. For families always on the go,
+ run your dishes through the 1-hour wash cycle for crystal-clear glassware and sparkling dishes, and skip hand drying with the heated dry feature. 
+You can rest easy knowing this Kenmore dishwasher can get your dishes clean in time for the next family dinner."
+},
+
+{
+"name": "Cooktops",
+"department":"Appliances",
+"price": 1549.99
+"discountPrice": 1394.99
+"image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8636/8636634_sd.jpg;maxHeight=640;maxWidth=550",
+"description": "This smart, modern cooktop alerts you when the cooktop is in use with distinctive blue LED lights, and the Wi-Fi connectivity
+ lets you control it from anywhere."
+},
+
+{
+"name": "Microwaves",
+"department":"Appliances",
+"price": 89.99
+"discountPrice": 74.84
+"image":"https://i5.walmartimages.com/asr/a67a1e6f-817e-4b27-9331-570e1805ac68_1.e83a8d64215f76d7c45821ca96dc16f8.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff",
+"description": "Whip up a variety of meals and snacks fast and reheat many foods and beverages with ease using this powerful 1000 Watt Microwave Oven from
+ Hamilton Beach. Designed with a variety of thoughtful yet practical features to make easy work out of everyday kitchen tasks, this stylish microwave boasts
+ 6 quick set menu buttons, 10 adjustable power levels, a vivid LED display and more to add to the convenience and functionality of your kitchen. "
+},
+
+{
+"name": "Bluetooth Spaekers",
+"department":"Audio",
+"price": 119.99
+"discountPrice": 107.99
+"image":"https://static.bhphoto.com/images/images500x500/sony_srsxb12_b_srs_xb12_extra_bass_portable_1556729416_1475296.jpg",
+"description": "Listen to music anywhere with this JBL Flip 5 portable Bluetooth speaker. Powerful drivers and JBL PartyBoost technology help you feel the
+ beat with loud, accurate audio across a wide frequency response range. This JBL Flip 5 portable Bluetooth speaker connects easily to smartphones and lets
+ you stream wireless audio from up to 33 feet away."
+},
+
+{
+"name": "Nintendo Switch",
+"department":"Video Games",
+"price": 119.99
+"discountPrice": 107.99
+"image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6364/6364255_sa.jpg;maxHeight=640;maxWidth=550",
+"description": "Introducing Nintendo Switch™ Lite, a new version of the Nintendo Switch system that’s optimized for personal, handheld play. Nintendo Switch
+ Lite is a small and light Nintendo Switch system at a great price. With a built-in +Control Pad, and a sleek, unibody design, Nintendo Switch Lite is great
+ for on-the-go gaming. Nintendo Switch Lite is compatible with popular games such as Super Mario Odyssey™, Mario Kart™ 8 Deluxe, Super Smash Bros.™ Ultimate,
+ The Legend of Zelda™: Breath of the Wild, and more. If you’re looking for a gaming system all your own, Nintendo Switch Lite is ready to hit the road whenever you are."
+},
+
+{
+"name":"Play Station ",
+"department":"Video Games",
+"price": 299.99
+"discountPrice": 269.99
+"image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5850/5850905_sd.jpg;maxHeight=640;maxWidth=550",
+"description": "Explore uncharted virtual territories and slay dragons with this sleek Sony PlayStation 5 gaming console. The 825GB SSD allows ultra-fast
+ load times, while 3-D audio output produces crisp acoustics. This Sony PlayStation 5 gaming console supports haptic feedback for effortless communication 
+in multiplayer setups, and adaptive triggers allow immersive gameplay"
+}
+]
+}
